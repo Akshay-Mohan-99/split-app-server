@@ -1,0 +1,36 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules
+*.log
+*.gz
+
+.env
+.npmrc
+
+# production
+#build
+test.js
+
+# Test code
+experiments
+utils/reports
+log
+
+# Auto generated files
+data/*
+
+
